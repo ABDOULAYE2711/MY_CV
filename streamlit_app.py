@@ -12,10 +12,9 @@ st.write('''
 ''')
 
 image = Image.open('badji.png')
-image1 = Image.open('SFL.png')
 st.image(image, width=150)
 
-st.markdown('## Summary', unsafe_allow_html=True)
+st.markdown('## Profil', unsafe_allow_html=True)
 st.info('''
 Très à l’aise avec les chiffres et les statistiques, l’analyse de données est un domaine qui me passionne. 
 M’avoir dans votre entreprise, c’est la renforcer par ma rigueur, ma curiosité et ma grande capacité d’adaptation. 
