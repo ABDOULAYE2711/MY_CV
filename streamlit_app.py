@@ -207,9 +207,9 @@ txt2('Youtube', 'https://www.youtube.com/channel/UCZ_Sor5J6415zV8k3hNlk6Q')
 st.markdown('''
 ## Références
 ''')
+txt4('Mr Ashish Sauba', 'Responsable de la transformation digitale', 'ashish.sauba@lavoixduclient.fr')
 txt4('Mr Antoine Sebastianutti', 'Directeur Général Moon', 'antoine@moon.community')
-txt4('Mr Arnaud Moisan', 'Directeur Associé Omedia', 'amoisan@omedia-group.com')
-txt4('Mr Christophe Gondry', 'Directeur Associé Omedia','cgondry@omedia-group.com')
+txt4('Mr Arnaud Moisan', 'Directeur Associé Omedia','amoisan@omedia-group.com')
 
 star_rating1 = ":star:" * 5
 star_rating2 = ":star:" * 3
